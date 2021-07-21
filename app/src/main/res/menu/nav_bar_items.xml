@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <item
+        android:id="@+id/home_nav_icon"
+        android:title="@string/home"
+        android:icon="@drawable/home_icon"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/map_nav_icon"
+        android:title="@string/map"
+        android:icon="@drawable/pin_drop_icon"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/ratings_nav_icon"
+        android:title="@string/ratings"
+        android:icon="@drawable/star_icon"
+        app:showAsAction="ifRoom"/>
+
+
+    <item
+        android:id="@+id/leaderboard_nav_icon"
+        android:title="@string/leader_board"
+        android:icon="@drawable/ic_baseline_format_list_numbered_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/share_nav_icon"
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_mobile_screen_share_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>

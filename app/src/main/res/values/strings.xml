@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">2Birds1Scone</string>
+
+    <!--Home Page Text-->
+    <string name="a_scone"><b>Simply A Cheese Scone</b></string>
+    <string name="description"><i>a small round bread-like baked product usually split in half and served with butter. Of savoury composition with primary flavour being cheese</i></string>
+    <string name="des2"><i>...and generally quite delicious</i></string>
+
+
+    <!--Rating-->
+    <string name="store">Store</string>
+    <string name="scone_name">Scone Name</string>
+    <string name="flavour">Flavour</string>
+    <string name="texture">Texture</string>
+    <string name="price">Bang for your buck</string>
+    <string name="location">Select location</string>
+    <string name="notes">Notes</string>
+    <string name="updateRating">Update Rating</string>
+
+    <!--Action-->
+    <string name="submit">Submit</string>
+    <string name="rateascone">Rate A Scone</string>
+    <string name="shareAll">Share All Reviews</string>
+
+    <!--Places-->
+    <string name="leader_board">Leaderboard</string>
+    <string name="review_scone">Review Scone</string>
+    <string name="share">Share</string>
+    <string name="ratings">Ratings</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings">Settings</string>
+
+    <!-- Alert Preferences -->
+    <string name="time_title">Scone-minder interval</string>
+    <string name="set_default_location">Set default location</string>
+    <string name="the_default_pin_location_if_we_don_t_have_location_permissions">The default pin location if we don\'t have location permissions.</string>
+
+
+    <!-- Preferences -->
+    <string name="alerts">Scone-minder Alerts</string>
+    <string name="remind">Remind me</string>
+    <string name="alert_on">Receive alerts if you haven\'t reviewed a scone in awhile</string>
+    <string name="alert_off">I don\'t need more prompts to rate scones</string>
+    <string name="alert_time">Alert Timing</string>
+
+    <!-- Other -->
+    <string name="what_is_it">This is an image of a scone</string>
+    <string name="what_is_it2">Share all the reviews</string>
+
+    <!--About-->
+    <string name="where_is_the_scone">Where is the scone?</string>
+    <string name="done">Done</string>
+    <string name="Button">Direction Button</string>
+    <string name="no_directions">Couldn\'t find Google Maps</string>
+
+
+</resources>

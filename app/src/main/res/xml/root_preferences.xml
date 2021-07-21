@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/alerts">
+
+        <SwitchPreferenceCompat
+            app:key="enableAlerts"
+            app:title="@string/remind"
+            app:summaryOn="@string/alert_on"
+            app:summaryOff="@string/alert_off" />
+
+        <ListPreference
+            app:defaultValue="24 hours"
+            app:entries="@array/intervals"
+            app:entryValues="@array/intervals"
+            app:key="alertIntervals"
+            app:title="@string/time_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Location">
+        <Preference
+            android:key="setDefaultLocation"
+            android:layout="@layout/set_location_button" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

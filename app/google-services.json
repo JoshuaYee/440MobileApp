@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783077996534",
+    "project_id": "two-birds-one-scone",
+    "storage_bucket": "two-birds-one-scone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783077996534:android:c7d6dca0b5eb014d1df9d7",
+        "android_client_info": {
+          "package_name": "com.flexedev.twobirds_onescone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783077996534-tni9mq0fi0bacvfce0vvqgd4tu1i8v9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMyCp0Ecl7FdJb-M6WeSesAL8bos3WCrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783077996534-tni9mq0fi0bacvfce0vvqgd4tu1i8v9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

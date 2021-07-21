@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="intervals">
+        <item>30 seconds</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>5 days</item>
+        <item>1 week</item>
+        <item>2 weeks</item>
+    </string-array>
+</resources>
